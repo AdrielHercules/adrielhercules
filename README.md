@@ -5,10 +5,10 @@ I'm a developer who loves programming and software design. I started coding in m
 * Experience with **C, C++, Python, and TypeScript**
 * Focus Areas: **Cross-platform applications • Web development • 3D/VR with Unity**
 
-## 🌟 Interests
-* Solving **programming challenges**
-* Developing **desktop, web & mobile apps**
-* Creating **interactive 3D & VR worlds**
+## 🌟 Currently
+* Expanding my technical skills
+* Building personal projects to learn new technologies
+* Open to development opportunities
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrielhercules)
